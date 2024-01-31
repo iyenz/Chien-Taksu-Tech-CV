@@ -25,7 +25,7 @@ const Hero = () => {
           text-center xl:text-left">
             <div className="text-sm uppercase font-semibold mb-4 text-primary tracking-[4px]">Web Developer</div>
             <h1 className='text-6xl xl:text-[52px] xL:leading-[80px] tracking-[-2px] font-bold'> Hello, my name is</h1>
-            <h1 className='text-6xl xl:text-[72px] xL:leading-[80px] tracking-[-2px] font-bold '> Chien Shevanya lie</h1>
+            <h1 className='text-6xl xl:text-[72px] xL:leading-[80px] tracking-[-2px] font-bold '> Chien </h1>
             <p className='text-muted-foreground text-lg mb-8 font-light max-w-[490px-] mx-auto xl:mx-0 pt-3'>
               I am a 16-year-old student attending a technology school in Denpasar, Bali.
               My main hobbies are sports, especially swimming, playing badminton, and running.
