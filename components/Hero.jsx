@@ -27,7 +27,7 @@ const Hero = () => {
             <h1 className='text-6xl xl:text-[52px] xL:leading-[80px] tracking-[-2px] font-bold'> Hello, my name is</h1>
             <h1 className='text-6xl xl:text-[72px] xL:leading-[80px] tracking-[-2px] font-bold '> Chien Shevanya Lie</h1>
             <p className='text-muted-foreground text-lg mb-8 font-light max-w-[490px-] mx-auto xl:mx-0 pt-3'>
-              I am a 16-year-old student attending a technology school in Denpasar, Bali.
+              Im a 16-year-old student attending a technology school in Denpasar, Bali.
               My main hobbies are sports, especially swimming, playing badminton, and running.
               I have a big dream to become a software engineer in the future,
               and I am very enthusiastic to keep learning and developing my technical skills in programming.
