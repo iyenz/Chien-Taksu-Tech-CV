@@ -1,4 +1,4 @@
-lieimport Link from 'next/link';
+import Link from 'next/link';
 import { Button } from './ui/button';
 import { Download, Send } from 'lucide-react';
 
