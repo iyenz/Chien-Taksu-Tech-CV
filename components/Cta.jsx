@@ -7,7 +7,7 @@ const Cta = () => {
             <div className="container mx-auto">
                 <div className="flex flex-col items-center">
                     <h2 className="h2 max-w-xl text-center mb-8">
-                        If you want to contact me click below 
+                        If you want to contact me 
                     </h2>
                 </div>
             </div>
