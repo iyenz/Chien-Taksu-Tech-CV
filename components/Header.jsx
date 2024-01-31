@@ -10,7 +10,7 @@ import { usePathname } from "next/navigation";
 
 export const Header = () => {
     return (
-        <header className='bg-white/40 backdrop-blur-sm bg-accent py-6 bg-transparent sticky top-0 z-30 transition-all'>
+        <header className='bg-white/40 backdrop-blur-sm bg-accent py-6 sticky top-0 z-30 transition-all'>
         <div className="container mx-auto">
             <div className="flex justify-between items-center">
                 <Logo />
