@@ -10,16 +10,12 @@ import Link from 'next/link';
 
 const icons = [
   {
-    path: '/',
+    path: 'https://github.com/iyenz',
     name: <RiGithubFill />,
   },
   {
-    path: '/',
+    path: 'https://www.instagram.com/ig.chiient?igsh=bmRzbGh6MmU3d2E0',
     name: <FaInstagram />,
-  },
-  {
-    path: '/',
-    name: <FaDiscord />,
   },
 ]
 
